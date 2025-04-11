@@ -93,6 +93,7 @@ export AWS_SECRET_ACCESS_KEY=<AWS_SECRET_ACCESS_KEY>
 
 	
 ## 3. Create ECR repo to store/save docker image
+#158464671013.dkr.ecr.us-east-1.amazonaws.com/visarepo
     
 
 	
